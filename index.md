@@ -16,21 +16,22 @@
 
 ### [复仇时刻导航](./链接导航.md)
 
-## 疑难解答
-**1. 游戏下载问题**
+## 疑难解答 
+
+**1. [游戏下载问题](/QuestionNAnswer/index.md)**
 
 **2. [游戏安装问题](/QuestionNAnswer/游戏安装问题.md)**
 
-**3. 自动更新问题**
+**3. [自动更新问题](/QuestionNAnswer/index.md**
 
-**4. 游戏无法正常运行问题**
+**4. [游戏无法正常运行问题](/QuestionNAnswer/index.md)**
 
-**5. 与好友联机问题**
+**5. [与好友联机问题](/QuestionNAnswer/index.md)**
 
-**6. 复仇时刻正常运行中遇到的问题**
+**6. [复仇时刻正常运行中遇到的问题](/QuestionNAnswer/index.md)**
 
-**7. 杀软问题**
+**7. [杀软问题](/QuestionNAnswer/index.md)**
 
-**8. 番外任务**
+**8. [番外任务](/QuestionNAnswer/index.md)**
 
-**9. 上述分类没有你要找的解答?**
+**9. [上述分类没有你要找的解答](/QuestionNAnswer/游戏安装问题.md)?**
