@@ -18,7 +18,7 @@
 
 ## 疑难解答 
 
-1. [游戏下载问题](/QuestionNAnswer/index.md#1-游戏下载问题)
+1. [游戏下载问题](/QuestionNAnswer/index.md#_1-游戏下载问题)
 
 2. [游戏安装问题](/QuestionNAnswer/游戏安装问题.md)
 
