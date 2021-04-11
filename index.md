@@ -24,7 +24,7 @@
 
 3. [自动更新问题](/QuestionNAnswer/index.md#3.自动更新问题)
 
-4. [游戏无法正常运行问题](/QuestionNAnswer/index.md#4.游戏无法正常运行问题)
+4. [游戏无法正常运行问题](/QuestionNAnswer/index.md#_4-游戏无法正常运行问题)
 
 5. [与好友联机问题](/QuestionNAnswer/index.md#5.与好友联机问题)
 
