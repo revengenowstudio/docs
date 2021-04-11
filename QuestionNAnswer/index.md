@@ -6,7 +6,6 @@
 - 相关工具下载
 
 ## 2. [游戏安装问题](/QuestionNAnswer/游戏安装问题.md) :id=install-problem
--
 - [独立安装包使用注意事项](/QuestionNAnswer/游戏安装问题.md#独立安装包使用注意事项)
 - [安装过程中显示错误1006](/QuestionNAnswer/游戏安装问题.md#安装过程中显示错误1006)
 - [创建临时文件失败](/QuestionNAnswer/创建临时文件失败.md)
