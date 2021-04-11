@@ -34,7 +34,7 @@
 
 8. [番外任务](/QuestionNAnswer/index.md#Foreign-missions-problem)
 
-9. [上述分类没有你要找的解答?](/QuestionNAnswer/index.md#id=no-anwser)
+9. [上述分类没有你要找的解答?](/QuestionNAnswer/index.md#no-anwser)
 
 - 9. 上述分类没有你要找的解答?</QuestionNAnswer/index.md#_9.-上述分类没有你要找的解答>
 
