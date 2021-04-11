@@ -1,6 +1,6 @@
 
 
-## **1. 游戏下载问题 :id=download-question**
+## **1. 游戏下载问题** :id=download-question
 - [最新版本下载](/QuestionNAnswer/最新版本下载.md)
 - 官方扩展内容下载
 - 相关工具下载
@@ -13,13 +13,13 @@
 - [运行独立安装包时弹出全是“？”内容的窗口](/QuestionNAnswer/非Unicode语言设置错误.md)
 
 
-## **3. 自动更新问题 :id=update-problem**
+## **3. 自动更新问题** :id=update-problem
 - [启动器无法获取更新](/QuestionNAnswer/启动器无法获得更新.md)
 - [更新启动器失败](/QuestionNAnswer/更新启动器失败.md)
 - [无法获取更新包](/QuestionNAnswer/无法获取更新包.md)
 - [更新包安装失败](/QuestionNAnswer/更新包安装失败.md)
 
-## **4. 游戏无法正常运行问题 :id=gaming-problem**
+## **4. 游戏无法正常运行问题** :id=gaming-proble
 - [关于xp系统用户游戏运行问题](/QuestionNAnswer/关于xp系统用户游戏运行问题.md)
 - [杀毒软件报毒提示](/QuestionNAnswer/杀毒软件报毒提示.md)
 - [游戏中没有“单人游戏”按键](/QuestionNAnswer/游戏中没有“单人游戏”按键.md)
@@ -37,7 +37,7 @@
 - [在启动器勾选番外任务后启动游戏显示无法启动](/QuestionNAnswer/关于番外任务的问题解答.md)
 - [窗口化运行时提示“本游戏需要16位色运行”](/QuestionNAnswer/窗口化运行时提示“本游戏需要16位色运行”.md)
 
-## **5. 与好友联机问题 :id=online-problem**
+## **5. 与好友联机问题** :id=online-problem
 - [使用第三方对战平台（游侠和浩方）](/QuestionNAnswer/使用第三方对战平台.md)
 - [使用虚拟局域网工具](/QuestionNAnswer/使用虚拟局域网工具.md)
 - [使用N2N虚拟局域网进行联机](/QuestionNAnswer/使用N2N虚拟局域网进行联机.md)
@@ -46,16 +46,16 @@
 - [游戏中看得见其他玩家看不见朋友](/QuestionNAnswer/游戏中看得见其他玩家看不见朋友.md)
 - [进入房间提示“序列号相同”](/QuestionNAnswer/进入房间提示“序列号相同”.md)
 
-## **6. 复仇时刻正常运行中遇到的问题 :id=problem-on-running**
+## **6. 复仇时刻正常运行中遇到的问题** :id=problem-on-running
 - [崩溃文件的处理方法](/QuestionNAnswer/debug文件的处理方法.md)
 
-## **7. 杀软问题:id=anti-virus-software-problem**
+## **7. 杀软问题** :id=anti-virus-software-problem
 - [如何管理好自己的杀软](/QuestionNAnswer/如何管理好自己的杀软.md)
 
-## **8. 番外任务:id=Foreign-missions-problem**
+## **8. 番外任务** :id=Foreign-missions-problem
 - [关于番外任务](/QuestionNAnswer/关于番外任务的问题解答.md)
 
-## **9. 上述分类没有你要找的解答? :id=no-anwser**
+## **9. 上述分类没有你要找的解答?** :id=no-anwser
 <a name="上述分类没有你要找的解答"></a>
 - [反馈Bug和提供建议](/QuestionNAnswer/反馈Bug和提供建议.md)
 - [在玩家群提问时的注意事项](/QuestionNAnswer/在玩家群提问时的注意事项.md)
