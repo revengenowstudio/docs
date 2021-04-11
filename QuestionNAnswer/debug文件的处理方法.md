@@ -50,7 +50,7 @@ RE会生成两份东西![](./bengkui2.png)和一个文件夹
 发送完毕之后，玩家即可删除在本地的debug文件，以节省硬盘空间。
 
 
-邮箱：zcyfksn@vip.qq.com
+邮箱：[zcyfksn@vip.qq.com](':disabled')
 
 
 ***
