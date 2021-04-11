@@ -18,13 +18,13 @@
 
 ## 疑难解答 
 
-1. [游戏下载问题](/QuestionNAnswer/index.md#_1.-游戏下载问题)
+1. [游戏下载问题](/QuestionNAnswer/index.md#download-question)
 
 2. [游戏安装问题](/QuestionNAnswer/游戏安装问题.md)
 
-3. [自动更新问题](/QuestionNAnswer/index.md#_3.-自动更新问题)
+3. [自动更新问题](/QuestionNAnswer/index.md#update-problem)
 
-4. [游戏无法正常运行问题](/QuestionNAnswer/index.md#_4.-游戏无法正常运行问题)
+4. [游戏无法正常运行问题](/QuestionNAnswer/index.md#gaming-problem*)
 
 5. [与好友联机问题](/QuestionNAnswer/index.md#_5.-与好友联机问题)
 
