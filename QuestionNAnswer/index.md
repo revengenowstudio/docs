@@ -23,7 +23,7 @@
 - [关于xp系统用户游戏运行问题](/QuestionNAnswer/关于xp系统用户游戏运行问题.md)
 - [杀毒软件报毒提示](/QuestionNAnswer/杀毒软件报毒提示.md)
 - [游戏中没有“单人游戏”按键](/QuestionNAnswer/游戏中没有“单人游戏”按键.md)
-- [启动游戏后提示“未检测到游戏进程，请检查是否被杀软拦截，或者被腾讯TP禁止启动，并确保你有足够的权限，如管理员权限”](/QuestionNAnswer/启动游戏后提示“未检测到游戏进程，请检查是否被杀软拦截，或者被腾讯TP禁止启动，并确保你有足够的权限，如管理员权限”.md)
+- [启动游戏后提示“未检测到游戏进程，请检查是否被杀软拦截，或者被腾讯TP禁止启动，并确保你有足够的权限，如管理员权限”](/QuestionNAnswer/Program-did-not-detect-game-process.md)
 - [运行后菜单不显示问题（补丁安装方法，启动游戏黑屏）](/QuestionNAnswer/运行后菜单不显示问题.md#RenderPatchFailed)
 - [游戏闪退问题](/QuestionNAnswer/闪退问题.md)
 - [游戏中按钮、图标偏离](/QuestionNAnswer/游戏中按钮，图标偏离.md)
