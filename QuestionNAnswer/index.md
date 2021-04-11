@@ -19,7 +19,7 @@
 - [无法获取更新包](/QuestionNAnswer/无法获取更新包.md)
 - [更新包安装失败](/QuestionNAnswer/更新包安装失败.md)
 
-## **4. 游戏无法正常运行问题**
+## **4.游戏无法正常运行问题**
 - [关于xp系统用户游戏运行问题](/QuestionNAnswer/关于xp系统用户游戏运行问题.md)
 - [杀毒软件报毒提示](/QuestionNAnswer/杀毒软件报毒提示.md)
 - [游戏中没有“单人游戏”按键](/QuestionNAnswer/游戏中没有“单人游戏”按键.md)
