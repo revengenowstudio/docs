@@ -12,7 +12,7 @@
 
 ### [常见问题指南](/QuestionNAnswer/index.md)
 
-### [复仇时刻资料](./复仇时刻资料.md)
+### [复仇时刻资料](./IntelligenceData/index.md)
 
 ### [复仇时刻导航](./链接导航.md)
 
