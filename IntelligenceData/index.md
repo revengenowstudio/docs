@@ -36,6 +36,7 @@
       * 盟军防御建筑
         - [机枪碉堡]
         - [爱国者导弹]
+        - [光棱塔]
       * 盟军步兵
         - [盟军大兵]
         - [重装大兵]
@@ -173,7 +174,8 @@
 [盟军简况]:../../RN_Internal_Issues/wiki/单位资料-盟军简介
 [苏军简况]:../../RN_Internal_Issues/wiki/单位资料-苏军简介
 [尤里简况]:../../RN_Internal_Issues/wiki/单位资料-尤里简介
-
+<!-- Allied buildings -->
+[光棱塔]:./BuildingData-PrismTower.md
 [海豚]:../../RN_Internal_Issues/wiki/海豚
 [遥控坦克]:../../RN_Internal_Issues/wiki/遥控坦克
 [入侵者战机]:../../RN_Internal_Issues/wiki/入侵者战机
