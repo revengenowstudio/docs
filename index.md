@@ -36,8 +36,3 @@
 
 9. [上述分类没有你要找的解答?](/QuestionNAnswer/index.md#no-anwser)
 
-- 9. 上述分类没有你要找的解答?</QuestionNAnswer/index.md#_9.-上述分类没有你要找的解答>
-
-- 10. [上述分类没有你要找的解答?](#上述分类没有你要找的解答)
-
-- 11. [测试](https://revengenowstudio.github.io/docs/#/QuestionNAnswer/%E6%B8%B8%E6%88%8F%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98?id=_1%e3%80%81%e4%b8%8b%e8%bd%bd%e5%ae%89%e8%a3%85%e5%8c%85)
