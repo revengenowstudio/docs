@@ -171,7 +171,7 @@
 [cmt]:../../RN_Internal_Issues/wiki/单位资料
 [自爆卡车]:../../InternalWiki/单位资料-自爆卡车
 
-[盟军简况]:https://github.com/revengenowstudio/InternalWiki/单位资料-盟军简介
+[盟军简况]:https://github.com/revengenowstudio/InternalWiki/blob/master/单位资料-盟军简介.md
 [苏军简况]:../../RN_Internal_Issues/wiki/单位资料-苏军简介
 [尤里简况]:../../RN_Internal_Issues/wiki/单位资料-尤里简介
 <!-- Allied buildings -->
