@@ -193,7 +193,7 @@
 [先军要塞]:../../RN_Internal_Issues/wiki/单位资料-先军要塞
 [先锋政委]:../../RN_Internal_Issues/wiki/单位资料-先锋政委
 [光明星自行火炮]:../../RN_Internal_Issues/wiki/单位资料-光明星自行火炮
-[光棱坦克]:./Prism-Tank.md
+[光棱坦克]:./UnitData-PrismTank.md
 [利刃突击艇]:../../RN_Internal_Issues/wiki/单位资料-利刃突击艇
 [动员兵]:../../RN_Internal_Issues/wiki/单位资料-动员兵
 [化学工兵]:../../RN_Internal_Issues/wiki/单位资料-化学工兵
