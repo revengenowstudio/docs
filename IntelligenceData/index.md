@@ -169,7 +169,7 @@
 
 
 [cmt]:../../RN_Internal_Issues/wiki/单位资料
-[自爆卡车]:../../RN_Internal_Issues/wiki/单位资料-自爆卡车
+[自爆卡车]:../../InternalWiki/单位资料-自爆卡车
 
 [盟军简况]:../../RN_Internal_Issues/wiki/单位资料-盟军简介
 [苏军简况]:../../RN_Internal_Issues/wiki/单位资料-苏军简介
