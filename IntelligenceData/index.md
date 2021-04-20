@@ -247,7 +247,7 @@
 [炸弹皮卡]:../../RN_Internal_Issues/wiki/单位资料-炸弹皮卡
 [烈焰核心]:../../RN_Internal_Issues/wiki/单位资料-烈焰核心
 [爱国者导弹]:../../RN_Internal_Issues/wiki/单位资料-爱国者飞弹
-[特工]:../../RN_Internal_Issues/wiki/单位资料-特工
+[特工]:./InfantryData-SovietSpecialAgent.md
 [潜行者]:../../RN_Internal_Issues/wiki/单位资料-特种部队
 [犀牛坦克]:./单位资料-犀牛坦克
 [狂兽人]:../../RN_Internal_Issues/wiki/单位资料-狂兽人
