@@ -137,6 +137,7 @@
        - [战术核潜艇]
        - [维拉迪摩指挥舰]
      * 苏军技能
+       - [超凡磁暴]
 
   3. **尤里单位**
      * [尤里建筑]()
@@ -176,6 +177,7 @@
 [尤里简况]:../../RN_Internal_Issues/wiki/单位资料-尤里简介
 <!-- Allied buildings -->
 [光棱塔]:./BuildingData-PrismTower.md
+
 [海豚]:../../RN_Internal_Issues/wiki/海豚
 [遥控坦克]:../../RN_Internal_Issues/wiki/遥控坦克
 [入侵者战机]:../../RN_Internal_Issues/wiki/入侵者战机
@@ -289,3 +291,6 @@
 [镭射坦克]:../../RN_Internal_Issues/wiki/单位资料-镭射坦克
 [盟军矿石精炼厂]:./单位资料-盟军矿石精炼厂
 [盟军建造厂]:./单位资料-盟军建造厂
+
+<!--Soviet super weapons -->
+[超凡磁暴]:./SWData-ElectricRampage.md
