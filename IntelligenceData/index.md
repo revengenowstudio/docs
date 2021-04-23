@@ -189,7 +189,7 @@
 [食蚁兽两栖装甲车]:../../RN_Internal_Issues/wiki/单位资料-食蚁兽两栖装甲车
 [驱逐舰]:../../RN_Internal_Issues/wiki/单位资料-驱逐舰
 [黑鹰战机]:../../RN_Internal_Issues/wiki/单位资料-黑鹰战机
-[V3火箭车]:../../RN_Internal_Issues/wiki/单位资料-V3火箭车
+[V3火箭车]:./UnitData-V3Launcher.md
 [忠武级战列舰]:../../RN_Internal_Issues/wiki/单位资料-“忠武”级战列舰
 [瓦尔哈拉维修平台]:../../RN_Internal_Issues/wiki/单位资料-“瓦尔哈拉”维修平台
 [九头蛇快艇]:../../RN_Internal_Issues/wiki/单位资料-九头蛇快艇
