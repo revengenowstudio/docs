@@ -38,7 +38,7 @@
 本MOD使用Ares 0.A加强版，使用了自主研发的扩展模块和独立的启动器，请勿尝试窃取制作组的劳动成果！
 特别注意：运行游戏请使用Launcher.exe，不要自作主张采用其它方法，如果无法正常启动，请将Revenge.ext、RunRN.exe、YURI.exe、RA2MD.exe、GameRN.exe、GameMD.exe加入杀毒软件白名单。（不知道如何操作的请自行百度）
 如果在安装后出现游戏不能玩的问题，请检查您的计算机是否已正确安装相关的驱动程序，游戏路径不包含中文和特殊字符，以及尝试运行游戏文件夹内的SetupReg.exe。常见问题指南见：
-<https://github.com/Zero-Fanker/Revenge-Now/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%8C%87%E5%8D%97>
+<https://revengenowstudio.github.io/docs/#/QuestionNAnswer/index>
 
 ![pic3](img/qxt.gif)
 
