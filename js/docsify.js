@@ -8,7 +8,7 @@ window.$docsify = {
     mergeNavbar: true,
     relativePath: true,
     maxLevel: 3,
-    subMaxLevel: 3,
+    subMaxLevel: 1,
     name: 'Revenge Now 官方网站',
     repo: '',
     homepage: "index.md",
@@ -62,7 +62,12 @@ window.$docsify = {
         position: "top",
         color: "var(--theme-color,#42b983)",
         height: "3px",
-    }
+    },
+    nameLink: {
+    '/en/': '/en/',
+    '/': '/',
+    },
+    fallbackLanguages: ['en']
 }
 if (typeof navigator.serviceWorker !== 'undefined') {
     navigator.serviceWorker.register('/docs/js/sw.js')
