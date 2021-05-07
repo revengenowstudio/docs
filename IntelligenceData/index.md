@@ -96,14 +96,14 @@
        - [先锋政委] - Pioneer officer
        - [磁爆步兵] - Tesla trooper
        - [疯狂伊文] - Crazy ivan
-       - [化学工兵] - Chemical trooper
-       - [特工]
-       - [恐怖分子]
-       - [赛博格战队]
-       - [收割者]
+       - [化学工兵] - Desolater
+       - [特工] - Special agent
+       - [恐怖分子] - Terrist
+       - [赛博格战队] - Cyborg squad
+       - [收割者] - Reaper
      * 苏军载具
-       - [犀牛坦克]
-       - [毒蝎坦克]
+       - [犀牛坦克] - Rhino tank
+       - [毒蝎坦克] - Scorpion tank
        - [防空履带车]
        - [食蚁兽两栖装甲车]
        - [自行高炮]
