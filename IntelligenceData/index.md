@@ -87,15 +87,16 @@
 
   2. **苏军单位**
      * [苏军建筑]()
+       - [磁感应电厂] - Tesla reactor station
      * [苏军防御建筑]()
-       - [战术核炮]
+       - [战术核炮] - Tactical nuclear cannon
      * 苏军步兵
-       - [动员兵]
-       - [防空步兵]
-       - [先锋政委]
-       - [磁爆步兵]
-       - [疯狂伊文]
-       - [化学工兵]
+       - [动员兵] - Conscript
+       - [防空步兵] - Flak trooper
+       - [先锋政委] - Pioneer officer
+       - [磁爆步兵] - Tesla trooper
+       - [疯狂伊文] - Crazy ivan
+       - [化学工兵] - Chemical trooper
        - [特工]
        - [恐怖分子]
        - [赛博格战队]
