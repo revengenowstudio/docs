@@ -88,7 +88,13 @@
   2. **苏军单位**
      * [苏军建筑]()
        - [磁感应电厂] - Tesla reactor station
+       - [矿石精炼厂] - Ore refinery
+       - [苏联兵营] - Soviet barrack
+       - [战车工厂] - Soviet war factory
      * [苏军防御建筑]()
+       - [哨戒机枪] - Sentry gun
+       - [防空炮] - Flak cannon
+       - [磁暴线圈] - Tesla coil
        - [战术核炮] - Tactical nuclear cannon
      * 苏军步兵
        - [动员兵] - Conscript
@@ -138,7 +144,7 @@
        - [战术核潜艇]
        - [维拉迪摩指挥舰]
      * 苏军技能
-       - [超凡磁暴]
+       - [超凡磁暴] - Electric rampage
 
   3. **尤里单位**
      * [尤里建筑]()
