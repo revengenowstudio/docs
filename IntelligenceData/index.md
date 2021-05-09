@@ -24,13 +24,13 @@
 ***
   1. **盟军单位**
       * [盟军建筑](#盟军建筑)
-        - [盟军建造厂]
-        - [发电厂] - fossil fuel powerplant
-        - [盟军矿石精炼厂]
-        - [盟军兵营]
-        - 战车工厂
+        - [盟军建造厂] - Allied construction yard
+        - [发电厂] - Fossil fuel powerplant
+        - [盟军矿石精炼厂] - Allied ore refinery
+        - [盟军兵营] - Allied infantry barracks
+        - [战车工厂] - Allied war factory
         - [空指部]
-        - 扩展机位
+        - [扩展机位] - Extended airpad
         - [盟军作战实验室]
         - [超时空传送平台]
       * 盟军防御建筑
