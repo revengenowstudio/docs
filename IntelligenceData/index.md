@@ -22,80 +22,95 @@
 
 ### 单位资料 :id=unitdata
 ***
-  1. **盟军单位**
+  1. **盟军单位 - Allied Units **
       * [盟军建筑](#盟军建筑)
         - [盟军建造厂] - Allied construction yard
         - [发电厂] - Fossil fuel powerplant
         - [盟军矿石精炼厂] - Allied ore refinery
         - [盟军兵营] - Allied infantry barracks
         - [战车工厂] - Allied war factory
-        - [空指部]
+        - [空指部] - Allies Air Force Command HQ
         - [扩展机位] - Extended airpad
-        - [盟军作战实验室]
-        - [超时空传送平台]
-      * 盟军防御建筑
-        - [机枪碉堡]
-        - [爱国者导弹]
-        - [光棱塔]
+        - [盟军造船厂] - Allied shipyard 
+        - [盟军作战实验室] - Allied battle lab
+        - [矿石精炼器] - Ore purifier
+        - [超时空传送平台] - Chronowarp platform
+      * [盟军防御建筑] - Allied defensive structure 
+        - [盟军围墙] - Allied defence wall
+        - [机枪碉堡] - Pillbox
+        - [爱国者导弹] - Patriot Missile Launcher
+        - [光棱塔] - Prism Tower
+      * 盟军超级武器 - Allied super weapon
+        - [超时空传送仪] - Chronosphere
+        - [天气控制器] - Weather control device
       * 盟军步兵
-        - [盟军大兵]
-        - [重装大兵]
-        - [掷弹兵]
-        - [火箭飞行兵]
-        - [狙击手]
-        - [海豹部队]
-        - [间谍]
-        - [超时空军团]
-        - [狙击观察员]
-        - [暴风摩托]
+        - [盟军大兵] - G.I.
+        - [重装大兵] - Guardian G.I.
+        - [掷弹兵] - Grenadier
+        - [火箭飞行兵] - Rocketeer
+        - [狙击手] - Sniper
+        - [海豹部队] - SEAL
+        - [间谍] - Spy
+        - [狙击观察员] - Snipe Watcher
+        - [超时空军团] - Chrono Legionnaire
+        - [暴风摩托] - Thrust
       * 盟军载具
-        - [超时空采矿车]
-        - [灰熊坦克]
-        - [灰熊坦克—UC型]
-        - [遥控坦克]
-        - [坦克杀手]
-        - [步兵战车]
-        - [布伦运载车]
-        - [捕食者]
-        - [光明星自行火炮]
-        - [圣骑士机甲]
-        - [幻影坦克]
-        - [幻象坦克]
-        - [光棱坦克]
-        - [极光支援者]
-        - [条顿重型坦克]
+        - [超时空采矿车] - Chrono miner
+        - [灰熊坦克] - Grizzly Battle Tank
+        - [灰熊坦克—UC型] - Grizzly Battle Tank UC Model
+        - [遥控坦克] - Robot tank
+        - [坦克杀手] - Tank Destroyer
+        - [多功能步兵战车] - IFV
+        - [布伦运载车] - Bren IFV
+        - [捕食者] - Predator
+        - [光明星自行火炮] - Shinning star artillery
+        - [圣骑士机甲] - 
+        - [幻影坦克] - Mirage tank
+        - [幻象坦克] - Phantom tank
+        - [光棱坦克] - Prism Tank
+        - [极光支援者] - Aurora Supporter
+        - [条顿重型坦克] - Teutonic Heavy Tank
         - [布雷推土机]
-        - [战斗要塞]
-        - [瓦尔哈拉维修平台]
-        - [无人机平台]
-        - [攻城机甲]
-        - [先军要塞]
-        - [利刃突击艇]
+        - [战斗要塞] - Battle Fortress
+        - [瓦尔哈拉维修平台] - Valhalla support platform
+        - [无人机平台] - Anti-air UAV Launcher
+        - [攻城机甲] - Siege Mech
+        - [先军要塞] - Songun Fortress
+        - [利刃突击艇] - Blade Assaulter
       * 盟军飞行器
-        - [夜鹰直升机]
-        - [蜂鸟直升机]
-        - [入侵者战机]
-        - [黑鹰战机]
-        - [雷电轰炸机]
-        - [幽灵轰炸机]
+        - [夜鹰直升机] - Nighthawk Helicopter
+        - [蜂鸟直升机] - Hummingbird Helicopter
+        - [入侵者战机] - Intruder Fighter
+        - [黑鹰战机] - Black Eagle Fighter
+        - [雷电轰炸机] - Thunder Bomber
+        - [幽灵轰炸机] - Ghost Bomber
       * 盟军海军
-        - [驱逐舰]
-        - [神盾巡洋舰]
-        - [航空母舰]
-        - [忠武级战列舰]
+        - [驱逐舰] - Destroyer
+        - [神盾巡洋舰] - Aegis Cruiser
+        - [航空母舰] - Aircraft Carrier
+        - [忠武级战列舰] - Chungmu Battleship
       * 盟军技能
 
   2. **苏军单位**
      * [苏军建筑]()
+       - [苏军建造厂] - Soviet Construction Yard
        - [磁感应电厂] - Tesla reactor station
-       - [矿石精炼厂] - Ore refinery
+       - [矿石精炼厂] - Soviet Ore refinery
        - [苏联兵营] - Soviet barrack
        - [战车工厂] - Soviet war factory
+       - [雷达] - Radar Tower
+       - [机场塔台] - Airforce HQ
+       - [作战实验室] - Soviet Battle Lab
+       - [核能反应堆] - Nuclear Reactor
+       - [工业工厂] Industrial Plant
      * [苏军防御建筑]()
        - [哨戒机枪] - Sentry gun
        - [防空炮] - Flak cannon
        - [磁暴线圈] - Tesla coil
        - [战术核炮] - Tactical nuclear cannon
+     * [苏军超级武器]
+       - [铁幕装置] -  Iron Curtain Device
+       - [核弹发射井] - Nuclear Missile Silo
      * 苏军步兵
        - [动员兵] - Conscript
        - [防空步兵] - Flak trooper
@@ -110,7 +125,7 @@
      * 苏军载具
        - [犀牛坦克] - Rhino tank
        - [毒蝎坦克] - Scorpion tank
-       - [防空履带车]
+       - [防空履带车] - Flak Track
        - [食蚁兽两栖装甲车]
        - [自行高炮]
        - [炸弹皮卡]
