@@ -1,23 +1,23 @@
-- [单位资料](#unitdata)
+- [单位资料](#unitdata) - Intelligence data
 
-### 阵营与参战国资料
+### 阵营与参战国资料 - Side and country data
 ***
-1. 盟军
-    * [盟军简况]
-    * 美国
-    * 韩国
-    * 英国
-    * 德国
-    * 法国
-2. 苏军
-    * [苏军简况]
-    * 苏俄
-    * 乌克兰
-    * 古巴
-    * 越南
-3. 尤里
-    * [尤里简况]
-    * 尤里势力
+1. 盟军 - Allied Nations
+    * [盟军简况] - Profile of the allies
+    * 美国 - America
+    * 韩国 - Korea
+    * 英国 - England
+    * 德国 - Germany
+    * 法国 - France
+2. 苏军 - Soviet union
+    * [苏军简况] - Brief of the soviets
+    * 苏俄 - Soviet russia
+    * 乌克兰 - Ukraine
+    * 古巴 - Cuba
+    * 越南 - Vietnam
+3. 尤里 - Yuri Side
+    * [尤里简况] - Brief of the Yuri side
+    * 尤里势力 - Yuri's Forces
 
 
 ### 单位资料 :id=unitdata
