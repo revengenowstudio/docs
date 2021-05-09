@@ -10,13 +10,13 @@
     * 德国 - Germany
     * 法国 - France
 2. 苏军 - Soviet union
-    * [苏军简况] - Brief of the soviets
+    * [苏军简况] - Profile of the soviets
     * 苏俄 - Soviet russia
     * 乌克兰 - Ukraine
     * 古巴 - Cuba
     * 越南 - Vietnam
 3. 尤里 - Yuri Side
-    * [尤里简况] - Brief of the Yuri side
+    * [尤里简况] - Profile of the Yuri side
     * 尤里势力 - Yuri's Forces
 
 
