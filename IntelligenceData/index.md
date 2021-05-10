@@ -29,7 +29,7 @@
         - [盟军矿石精炼厂] - Allied ore refinery
         - [盟军兵营] - Allied infantry barracks
         - [战车工厂] - Allied war factory
-        - [空指部] - Allies Air Force Command HQ
+        - [空指部] - Allied Air Force Command HQ
         - [扩展机位] - Extended airpad
         - [盟军造船厂] - Allied shipyard 
         - [盟军作战实验室] - Allied battle lab
@@ -97,6 +97,7 @@
        - [磁感应电厂] - Tesla reactor station
        - [矿石精炼厂] - Soviet Ore refinery
        - [苏联兵营] - Soviet barrack
+       - [苏联船坞]
        - [战车工厂] - Soviet war factory
        - [雷达] - Radar Tower
        - [机场塔台] - Airforce HQ
@@ -104,10 +105,12 @@
        - [核能反应堆] - Nuclear Reactor
        - [工业工厂] Industrial Plant
      * [苏军防御建筑]()
+       - [苏军围墙] - Soviet defence wall
        - [哨戒机枪] - Sentry gun
        - [防空炮] - Flak cannon
        - [磁暴线圈] - Tesla coil
        - [战术核炮] - Tactical nuclear cannon
+       - [磁暴铁塔] - Giant tesla tower
      * [苏军超级武器]
        - [铁幕装置] -  Iron Curtain Device
        - [核弹发射井] - Nuclear Missile Silo
