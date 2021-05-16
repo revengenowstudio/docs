@@ -23,8 +23,8 @@
 ### 单位资料 :id=unitdata
 ***
   1. **盟军单位 - Allied Units **
-      * <details><summary>盟军建筑</summary>
-        <li>::marker [盟军建造厂] - Allied construction yard</li>
+      * <details><summary>盟军建筑</summary><pre>
+        - [盟军建造厂] - Allied construction yard
         - [发电厂] - Fossil fuel powerplant
         - [盟军矿石精炼厂] - Allied ore refinery
         - [盟军兵营] - Allied infantry barracks
@@ -35,7 +35,7 @@
         - [盟军作战实验室] - Allied battle lab
         - [矿石精炼器] - Ore purifier
         - [超时空传送平台] - Chronowarp platform
-      </details>
+      </pre></details>  
       * [盟军防御建筑] - Allied defensive structure 
         - [盟军围墙] - Allied defence wall
         - [机枪碉堡] - Pillbox
