@@ -22,7 +22,7 @@
 
 ### 单位资料 :id=unitdata
 ***
-  1. **盟军单位 - Allied Units **
+  1. ** 盟军单位 - Allied Units **
       * <details><summary>盟军建筑</summary><pre>
         - [盟军建造厂] - Allied construction yard
         - [发电厂] - Fossil fuel powerplant
