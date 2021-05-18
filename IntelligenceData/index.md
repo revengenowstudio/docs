@@ -6,12 +6,12 @@
     * [盟军简况] - Profile of the allies
     * 美国 - America
     * 韩国 - Korea
-    * 英国 - England
+    * 英国 - Great Britain
     * 德国 - Germany
     * 法国 - France
 2. 苏军 - Soviet union
     * [苏军简况] - Profile of the soviets
-    * 苏俄 - Soviet russia
+    * 苏俄 - Russia
     * 乌克兰 - Ukraine
     * 古巴 - Cuba
     * 越南 - Vietnam
