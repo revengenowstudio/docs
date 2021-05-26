@@ -235,7 +235,7 @@
 [坦克杀手]:../../RN_Internal_Issues/wiki/单位资料-坦克杀手
 [基洛夫飞艇]:../../RN_Internal_Issues/wiki/单位资料-基洛夫飞艇
 [夜鹰直升机]:../../RN_Internal_Issues/wiki/单位资料-夜鹰直升机
-[天启坦克]:../../RN_Internal_Issues/wiki/单位资料-天启坦克
+[天启坦克]:./UnitData-ApocalypseTank.md
 [奴隶矿场]:../../RN_Internal_Issues/wiki/单位资料-奴隶矿场
 [宣传飞艇]:../../RN_Internal_Issues/wiki/单位资料-宣传飞艇
 [尤里复制人]:../../RN_Internal_Issues/wiki/单位资料-尤里复制人
