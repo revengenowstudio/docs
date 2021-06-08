@@ -37,7 +37,7 @@
 - [鼠标无法移动到建造栏](/鼠标无法移动到建造栏.md)
 - [在启动器勾选番外任务后启动游戏显示无法启动](/QuestionNAnswer/关于番外任务的问题解答.md)
 - [窗口化运行时提示“本游戏需要16位色运行”](/QuestionNAnswer/窗口化运行时提示“本游戏需要16位色运行”.md)
-
+- [启动CnCNet客户端弹窗：“未能加载文件或程序集'Microsoft.Xna.Framework.Game,Version=4.0.0.0'”](/Not-found-Xna.md)
 ## 5. 与好友联机问题 :id=online-problem
 - [使用第三方对战平台（游侠和浩方）](/QuestionNAnswer/使用第三方对战平台.md)
 - [使用虚拟局域网工具](/QuestionNAnswer/使用虚拟局域网工具.md)
