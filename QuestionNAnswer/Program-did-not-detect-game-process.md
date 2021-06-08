@@ -25,5 +25,5 @@
 
 ***
 
-[返回目录](./常见问题指南.md)
+[返回目录](/QuestionNAnswer/index.md)
 

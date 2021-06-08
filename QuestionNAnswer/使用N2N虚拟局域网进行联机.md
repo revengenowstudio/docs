@@ -98,4 +98,4 @@ https://bugxia.com/1770.html
 若还有其他问题，请联系复仇时刻服务群的客服或者复仇时刻公测群的客服
 
 ***
-[返回目录](./常见问题指南.md)
+[返回目录](/QuestionNAnswer/index.md)

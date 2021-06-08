@@ -70,7 +70,7 @@ RE会生成两份东西![](./bengkui2.png)和一个文件夹
 
 ***
 
-[返回目录](./常见问题指南.md)
+[返回目录](/QuestionNAnswer/index.md)
 
 
 
