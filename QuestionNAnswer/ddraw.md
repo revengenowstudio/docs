@@ -1,7 +1,7 @@
 [返回首页](./index.md)
 
 ***
- ![](./img/jiaocheng11.jpg)
+ ![a](./img/jiaocheng11.jpg)
 
 ## 0.99.902版本
 理论上99%的玩家使用该版本不会出现问题，如果你是该版本但仍然有问题，请看下文[渲染补丁没有效果，怎么办？](./ddraw.md#渲染补丁没有效果)
@@ -25,14 +25,14 @@
 接着，弹出注册表编辑器，根据以下目录
 **HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet
 \Control\Session Manager\KnownDLLs**
-找到**ddraw**的那一条，![](./img/a4.png)
+找到**ddraw**的那一条，![a](./img/a4.png)
 
-双击打开，于“数值数据”输入框内添加任意内容（例如在**前面加一个a**） ![](./img/a1.png)
+双击打开，于“数值数据”输入框内添加任意内容（例如在**前面加一个a**） ![a](./img/a1.png)
 或者选中ddraw这一项右键删除
 
 改完后，关闭注册表编辑器，**重启电脑**，然后再回到根目录，再**重新尝试安装合适的补丁**(**0.99.902版本起仅重启即可**)，直到合适为止。
 
-若出现“编辑值时出错” ![](./img/a2.png)
+若出现“编辑值时出错” ![a](./img/a2.png)
 ，不能编辑的情况下，在C盘找到window文件夹、regedit.exe，鼠标右键“**用管理员身份运行**”，若仍然不允许编辑，那么参见这个教程：[教程链接](https://baijiahao.baidu.com/s?id=1604347607947449668&wfr=spider&for=pc&isFailFlag=1)
 
 
