@@ -33,4 +33,4 @@
 - 安装包下载过程中由于网络问题导致损坏，重新下载安装即可。
 
 ***
-[返回目录](/QuestionNAnswer/index.md)
+[返回目录](/QuestionNAnswer/index.md#install-problem)

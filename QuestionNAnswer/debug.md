@@ -68,7 +68,7 @@ RE后会生成一个文件夹和一个sync文件![](./bengkui2.png)
 
 ***
 
-[返回目录](/QuestionNAnswer/index.md)
+[返回目录](/QuestionNAnswer/index.md#problem-on-running)
 
 
 

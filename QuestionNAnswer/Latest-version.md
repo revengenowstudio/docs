@@ -24,4 +24,4 @@
 - 复仇时刻交流及服务群号：894375635
 
 ***
-[返回目录](/QuestionNAnswer/index.md)
+[返回目录](/QuestionNAnswer/index.md#download-problem)

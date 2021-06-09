@@ -10,5 +10,5 @@
 * 如果你不信任复仇时刻的程序安全性，你可以选择卸载并删除。
 
 ***
-[返回目录](/QuestionNAnswer/index.md)
+[返回目录](/QuestionNAnswer/index.md#gaming-problem)
 

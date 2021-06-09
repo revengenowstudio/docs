@@ -37,4 +37,4 @@
 
 
 ***
-[返回目录](/QuestionNAnswer/index.md)
+[返回目录](/QuestionNAnswer/index.md#gaming-problem)
