@@ -26,9 +26,9 @@
 
 
 ## 游戏画面显示不完全，游戏中按钮、图标偏离 :id=deviation2
-![](./gso1.png) 
-![](./gso2.png)
-![](./jiaocheng10.png)
+![](/img/gso1.png) 
+![](/img/gso2.png)
+![](/img/jiaocheng10.png)
 - 类似以上这种，只能显示游戏画面一部分（可能导致鼠标无法移动到建造栏），按钮、图标偏离或消失，并且**分辨率大于1920x1280**的，全局DPI缩放大多不是100%，你需要调节DPI缩放来解决该问题，参见下文[给复仇时刻主程序禁用DPI缩放](/QuestionNAnswer/Screen-problems.md#DPI)
 
 
@@ -36,7 +36,7 @@
 
   - 在**复仇时刻主程序（包括gamern.exe)**的 属性--兼容性 里打开高dpi时禁用显示缩放
 
-  - win10系统给软件单独禁用dpi稍微麻烦一些：![](./gso3.png) 
+  - win10系统给软件单独禁用dpi稍微麻烦一些：![](/img/gso3.png) 
   - 先点击"更改高dpi设置" 
 
 

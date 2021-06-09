@@ -3,7 +3,7 @@
 
 ***
 
-![](./Extra-mission.png)
+![](/img/Extra-mission.png)
 
 番外任务**暂未推出**，敬请期待
 
