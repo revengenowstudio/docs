@@ -6,7 +6,7 @@
 
 - 新版复仇时刻(0.99.901版本及其更新版本)已经自带cncddraw渲染补丁，可以通过**alt+enter**（回车）在游戏内切换全屏或者窗口化模式
 
-- 如果无法切换窗口化模式或者快捷键失效，请参见：[补丁失效解决方案](./运行后菜单不显示问题.md#渲染补丁没有效果怎么办)
+- 如果无法切换窗口化模式或者快捷键失效，请参见：[补丁失效解决方案](/QuestionNAnswer/ddraw.md#RenderPatchFailed)
 
 - 适用于win7/win10用户的教程：https://jingyan.baidu.com/article/ff42efa9cda0ecc19e220297.html
 
