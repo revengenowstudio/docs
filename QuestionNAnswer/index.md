@@ -32,7 +32,7 @@
 - [右侧建造栏无法显示完全](/QuestionNAnswer/Screen-problems.md#deviation1)
 - [* * * FATAL * * * string Manager failed to initilaized properly](/QuestionNAnswer/FATAL.md)
 - [windows‘找不到launcherB’](/QuestionNAnswer/LauncherB-not-found.md)
-- [游戏画面偏移或显示不完整（游戏有黑边）](/QuestionNAnswer/Screen-problems#deviation1.md)
+- [游戏画面偏移或显示不完整（游戏有黑边）](/QuestionNAnswer/Screen-problems.md#deviation1)
 - [鼠标无法移动到建造栏](/Screen-problems.md#deviation2.md)
 - [在启动器勾选番外任务后启动游戏显示无法启动](/QuestionNAnswer/Extra-mission.md)
 - [窗口化运行时提示“本游戏需要16位色运行”](/QuestionNAnswer/16color.md)
