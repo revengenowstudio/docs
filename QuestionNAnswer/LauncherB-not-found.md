@@ -1,7 +1,7 @@
 [返回首页](/index.md)
 ***
 
-![a]..(/img/launcherB.png)
+![a](../img/launcherB.png)
 
 
  - **0.99.902及其以上版本的启动器已无此问题，若有此问题请确认你的游戏版本号。**[最新版本下载](./Latest-version.md)
