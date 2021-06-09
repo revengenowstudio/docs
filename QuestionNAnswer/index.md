@@ -26,7 +26,7 @@
 - [运行后菜单不显示问题](/QuestionNAnswer/ddraw.md#RenderPatchFailed)
 - [启动后全程黑屏](/QuestionNAnswer/ddraw.md#Blackscreen)
 - [游戏闪退问题](/QuestionNAnswer/crash.md)
-- [游戏中按钮、图标偏离](/QuestionNAnswer//QuestionNAnswer/Screen-problems.md#deviation2)
+- [游戏中按钮、图标偏离](/QuestionNAnswer/Screen-problems.md#deviation2)
 - [无法设定显示模式](/QuestionNAnswer/Display-mode.md)
 - [错误代码：0x2e4](/QuestionNAnswer/0x2e4.md)
 - [右侧建造栏无法显示完全](/QuestionNAnswer/Screen-problems.md#deviation1)
