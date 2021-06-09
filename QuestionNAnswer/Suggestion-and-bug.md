@@ -2,8 +2,7 @@
 
 ***
 
-* Bug和建议反馈页面:
-**https://github.com/Zero-Fanker/RN_All_Issues/issues**
+* Bug和建议反馈页面: https://github.com/Zero-Fanker/RN_All_Issues/issues
 
 - 点击网页右上角的“New issue”![a](../img/New-issue.png)，根据你的反馈内容选择合适的模版，然后点击”Get started“![a](../img/Get-started.png)，在对话框填写完毕你的反馈内容后，点击“Submit new issue”![a](../img/Submit-new-issue.png)提交你的反馈
 
