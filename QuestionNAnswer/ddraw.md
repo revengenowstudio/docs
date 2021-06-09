@@ -15,7 +15,7 @@
 ***
 
 
-## 渲染补丁没有效果
+## 渲染补丁没有效果 :id=renderpatchfailed
 <a name="renderpatchfailed" data-id="renderpatchfailed" class="anchor"></a>
 - 注意: 请**确保使用过所有补丁都不生效**再使用此方法，该方法适用于除xp（及xp以前的win系统）以外win用户，0.99.902起的版本可以直接看下面的步骤。
 - 警告: 必须确保你没有在安装完毕之后做任何多余操作，例如禁用3D加速、修改用户配置文件(通常为RA2MD.ini)、修改分辨率等非说明书指导的操作，如果有，请先恢复原样。
