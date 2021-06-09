@@ -14,22 +14,22 @@
 
 一种是**FE** ：
 
-![a](/img/FE1.png)
+![a]..(/img/FE1.png)
 
 
 一种是**RE** ：
 
-![a](/img/RE.png)
+![a]..(/img/RE.png)
 
 
 
 FE是指游戏**发生未知的严重错误**，RE是指**游戏同步连接错误**（联机才有的情况）
 
-FE后会生成一个文件夹![a](/img/bengkui1.png)
+FE后会生成一个文件夹![a]..(/img/bengkui1.png)
 
 包括：**一份标注在日期的文件夹**
 
-RE后会生成一个文件夹和一个sync文件![a](/img/bengkui2.png)
+RE后会生成一个文件夹和一个sync文件![a]..(/img/bengkui2.png)
 
 
 !> ****注意****：FE在**单机、联机**均可能发生，而RE只能是在**联机**时发生，并且RE的debug文件需要**多个人一起提供**才能完整。！！！

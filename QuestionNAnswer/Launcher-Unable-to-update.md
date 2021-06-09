@@ -5,8 +5,8 @@
 ***
 
 
-![a](/img/jiaocheng3.png)
-![a](/img/jiaocheng4.jpg)
+![a]..(/img/jiaocheng3.png)
+![a]..(/img/jiaocheng4.jpg)
 
 * **检查网络本身问题**
   - 使用浏览器访问: **dev.tencent.com**。无法访问则是本机网络问题，可能是DNS解析失败，或者是该站点被列入了本地网络或路由器的黑名单，请**自行使用搜索引擎解决网络问题**。
