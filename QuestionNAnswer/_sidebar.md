@@ -1,6 +1,5 @@
 
 
-
 ## 1. 游戏下载问题 :id=download-problem
 - [最新版本下载](/QuestionNAnswer/Latest-version.md)
 - 官方扩展内容下载
@@ -38,6 +37,8 @@
 - [在启动器勾选番外任务后启动游戏显示无法启动](/QuestionNAnswer/Extra-mission.md)
 - [窗口化运行时提示“本游戏需要16位色运行”](/QuestionNAnswer/16color.md)
 - [启动CnCNet客户端弹窗：“未能加载文件或程序集'Microsoft.Xna.Framework.Game,Version=4.0.0.0'”](/QuestionNAnswer/Not-found-Xna.md)
+- [战役中无法调节游戏速度](/QuestionNAnswer/Speedcontrol.md)
+
 ## 5. 与好友联机问题 :id=online-problem
 - [使用第三方对战平台（游侠和浩方）](/QuestionNAnswer/使用第三方对战平台.md)
 - [使用虚拟局域网工具](/QuestionNAnswer/使用虚拟局域网工具.md)
