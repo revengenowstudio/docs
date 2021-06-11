@@ -27,7 +27,7 @@ FE是指游戏**发生未知的严重错误**，RE是指**游戏同步连接错�
 
 !> 无论出现了哪种弹窗，你都要按“是”按钮，这样游戏进程才会保存debug文件
 
-!> 保险起见，你可以在启动器命令行中添加<kbd>-forcedump</kbd>来防止crash时没有保存dump文件，[命令要输入到哪里](./Control-code.md#Control-code1)
+!> 保险起见，你可以在启动器命令行中添加<kbd>-forcedump</kbd>来防止crash时没有保存dump文件。如果不清楚在哪里输入命令请看[命令要输入到哪里](./Control-code.md#Control-code1)
 
 FE后会生成一个文件夹![a](../img/bengkui1.png)
 
