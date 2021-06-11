@@ -8,6 +8,7 @@
 
 ![a](../img/control-code.png)
 
+!> 命令前面要加<kbd>-</kbd>，并且命令与命令之间用空格间隔开，例如<kbd>-cd -forcedump</kbd>
 
 
 ## 有哪些命令可以输入？
