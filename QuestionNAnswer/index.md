@@ -60,4 +60,4 @@
 ## 9. 上述分类没有你要找的解答? :id=no-anwser
 - [反馈Bug和提供建议](/QuestionNAnswer/Suggestion-and-bug.md)
 - [在玩家群讨论时的注意事项](/QuestionNAnswer/Players-note.md)
-- [启动器命令行的命令(/QuestionNAnswer/Control-code.md)
+- [启动器命令行的命令](/QuestionNAnswer/Control-code.md)
