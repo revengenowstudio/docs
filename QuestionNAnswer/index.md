@@ -37,7 +37,7 @@
 - [在启动器勾选番外任务后启动游戏显示无法启动](/QuestionNAnswer/Extra-mission.md)
 - [窗口化运行时提示“本游戏需要16位色运行”](/QuestionNAnswer/16color.md)
 - [启动CnCNet客户端弹窗：“未能加载文件或程序集'Microsoft.Xna.Framework.Game,Version=4.0.0.0'”](/QuestionNAnswer/Not-found-Xna.md)
-- [战役中无法调节游戏速度](/QuestionNAnswer/Speedcontrol.md)
+
 
 ## 5. 与好友联机问题 :id=online-problem
 - [使用第三方对战平台（游侠和浩方）](/QuestionNAnswer/使用第三方对战平台.md)
@@ -59,4 +59,5 @@
 
 ## 9. 上述分类没有你要找的解答? :id=no-anwser
 - [反馈Bug和提供建议](/QuestionNAnswer/Suggestion-and-bug.md)
-- [在玩家群提问时的注意事项](/QuestionNAnswer/Players-note.md)
+- [在玩家群讨论时的注意事项](/QuestionNAnswer/Players-note.md)
+- [启动器命令行的命令(/QuestionNAnswer/Control-code.md)
