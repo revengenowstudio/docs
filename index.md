@@ -20,7 +20,7 @@
 
 1. [游戏下载问题](/QuestionNAnswer/index.md#download-problem)
 
-2. [游戏安装问题](/QuestionNAnswer/游戏安装问题.md)
+2. [游戏安装问题](/QuestionNAnswer/installer-problem.md)
 
 3. [自动更新问题](/QuestionNAnswer/index.md#update-problem)
 
