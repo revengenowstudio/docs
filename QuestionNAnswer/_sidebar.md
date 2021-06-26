@@ -1,24 +1,24 @@
 
 
-## 1. 游戏下载问题 :id=download-problem
+## 1. 游戏下载问题
 - [最新版本下载](/QuestionNAnswer/Latest-version.md)
 - 官方扩展内容下载
 - 相关工具下载
 
-## 2. [游戏安装问题](/QuestionNAnswer/installer-problem.md) :id=install-problem
+## 2. [游戏安装问题](/QuestionNAnswer/installer-problem.md) 
 - [独立安装包使用注意事项](/QuestionNAnswer/installer-problem.md#独立安装包使用注意事项)
 - [安装过程中显示错误1006](/QuestionNAnswer/installer-problem.md#安装过程中显示错误1006)
 - [创建临时文件失败](/QuestionNAnswer/Temp-file-problem.md)
 - [运行独立安装包时弹出全是“？”内容的窗口](/QuestionNAnswer/Non-Unicode-problem.md)
 
 
-## 3. 自动更新问题 :id=update-problem
+## 3. 自动更新问题
 - [启动器无法获取更新](/QuestionNAnswer/Launcher-Unable-to-update.md)
 - [更新启动器失败](/QuestionNAnswer/更新启动器失败.md)
 - [无法获取更新包](/QuestionNAnswer/无法获取更新包.md)
 - [更新包安装失败](/QuestionNAnswer/更新包安装失败.md)
 
-## 4. 游戏无法正常运行问题 :id=gaming-problem
+## 4. 游戏无法正常运行问题
 - [关于xp系统用户游戏运行问题](/QuestionNAnswer/XP.md)
 - [杀毒软件报毒提示](/QuestionNAnswer/AVS.md)
 - [游戏中没有“单人游戏”按键](/QuestionNAnswer/No-button.md)
@@ -39,7 +39,7 @@
 - [启动CnCNet客户端弹窗：“未能加载文件或程序集'Microsoft.Xna.Framework.Game,Version=4.0.0.0'”](/QuestionNAnswer/Not-found-Xna.md)
 
 
-## 5. 与好友联机问题 :id=online-problem
+## 5. 与好友联机问题 
 - [使用第三方对战平台（游侠和浩方）](/QuestionNAnswer/使用第三方对战平台.md)
 - [使用虚拟局域网工具](/QuestionNAnswer/使用虚拟局域网工具.md)
 - [使用N2N虚拟局域网进行联机](/QuestionNAnswer/使用N2N虚拟局域网进行联机.md)
@@ -48,16 +48,16 @@
 - [游戏中看得见其他玩家看不见朋友](/QuestionNAnswer/游戏中看得见其他玩家看不见朋友.md)
 - [进入房间提示“序列号相同”](/QuestionNAnswer/进入房间提示“序列号相同”.md)
 
-## 6. 复仇时刻正常运行中遇到的问题 :id=problem-on-running
+## 6. 复仇时刻正常运行中遇到的问题
 - [崩溃文件的处理方法](/QuestionNAnswer/debug.md)
 
-## 7. 杀软问题 :id=anti-virus-software-problem
+## 7. 杀软问题 
 - [如何管理好自己的杀软](/QuestionNAnswer/AVS-explanation.md)
 
-## 8. 番外任务 :id=Foreign-missions-problem
+## 8. 番外任务 
 - [关于番外任务](/QuestionNAnswer/Extra-mission.md)
 
-## 9. 上述分类没有你要找的解答? :id=no-anwser
+## 9. 上述分类没有你要找的解答? 
 - [反馈Bug和提供建议](/QuestionNAnswer/Suggestion-and-bug.md)
 - [在玩家群讨论的注意事项](/QuestionNAnswer/Players-note.md)
 - [启动器命令行的命令](/QuestionNAnswer/Control-code.md)
