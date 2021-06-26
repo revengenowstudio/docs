@@ -13,7 +13,7 @@
 - **若issue的信息或者格式有误，请在公测群和服务群寻找客服或者管理员帮忙修改**，**请勿重复提交issue！！！**
 
 - github用户注册教程：https://blog.csdn.net/relyeditor/article/details/85602142
-（建议使用**Microsoft Edge，Chrome（谷歌浏览器）或火狐浏览器（Firefox）**，部分浏览器会屏蔽github）
+（建议使用**Microsoft Edge，Chrome（谷歌浏览器）或火狐浏览器（Firefox）**，部分国产浏览器会屏蔽github）
 
 !> 提示：国内部分地区用户可能无法访问github，原因是dns污染，你可以尝试修改host文件（github的IP需定期更新）或者开启vpn来尝试访问
 
