@@ -7,5 +7,17 @@ C -->|条件C2| E((模块E))
 C -->|条件C3| F["模块F(引号可转义特殊字符)"]
 ```
 
-
-$\Uparrow$
+箭头形状 | MarkDown
+ :-: | - 
+$\uparrow$ | \$\uparrow$
+$\Uparrow$ | \$\Uparrow$
+$\downarrow$ | \$\downarrow$
+$\Downarrow$ | \$\Downarrow$
+$\leftarrow$ | \$\leftarrow$
+$\Leftarrow$ | \$\Leftarrow$
+$\rightarrow$ | \$\rightarrow$
+$\Rightarrow$ | \$\Rightarrow$
+$\updownarrow$ | \$\updownarrow$
+$\Updownarrow$ | \$\Updownarrow$
+$\leftrightarrow$ | \$\leftrightarrow$
+$\Leftrightarrow$ | \$\Leftrightarrow$
