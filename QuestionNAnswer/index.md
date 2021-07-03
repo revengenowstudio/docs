@@ -53,6 +53,7 @@
 
 ## 7. 杀软问题 :id=anti-virus-software-problem
 - [如何管理好自己的杀软](/QuestionNAnswer/AVS-explanation.md)
+- [如何在windows defender中给误报文件添加白名单](/QuestionNAnswer/Windows-defender.md)
 
 ## 8. 番外任务 :id=Foreign-missions-problem
 - [关于番外任务](/QuestionNAnswer/Extra-mission.md)
