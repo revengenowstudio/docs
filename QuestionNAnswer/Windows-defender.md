@@ -12,7 +12,7 @@
 - 接着，找到<kbd>排除项</kbd>项目，点击其下方的<kbd>添加或删除排除项</kbd>  
 ![a](../img/windows-defender-4.png)  
 然后点击<kbd>添加排除项</kbd> 按钮，即可将误报的文件添加进windows defender的白名单中  
-![a](../img/windows-defender--5.png)
+![a](../img/windows-defender-5.png)
 
 
 
