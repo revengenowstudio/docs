@@ -11,11 +11,11 @@
 
 ![a](../img/XNA-NET4.png)
 
-安装xna组件时若弹出上述窗口，请先安装net4.0框架.  
+- 安装xna组件时若弹出上述窗口，请先安装net4.0框架.  
 
-下载地址：[微软官方下载](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)  
+- 下载地址：[微软官方下载](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)  
  
-!> 此处提供NET框架版本为4.0，客户端也仅支持NET4版本(NET4.0~NET4.8均可)，不支持NET3.5和NET5，win10系统自带NET4.0框架
+!> 此处提供NET框架版本为4.0，客户端仅支持NET4版本(NET4.0~NET4.8均可)，不支持NET5。win10系统自带NET4.0框架
 
 ***
 
