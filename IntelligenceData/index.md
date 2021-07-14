@@ -98,7 +98,7 @@
        - [磁感应电厂] - Tesla reactor station
        - [矿石精炼厂] - Soviet Ore refinery
        - [苏联兵营] - Soviet barrack
-       - [苏联船坞]
+       - [苏联船坞] - Soviet shipyard
        - [战车工厂] - Soviet war factory
        - [雷达] - Radar Tower
        - [机场塔台] - Airforce HQ
