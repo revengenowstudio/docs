@@ -7,7 +7,7 @@
 
 
 
-- 若游戏内显示 **-WARNING- Using slow software rendering,please update your graphics card driver**，并且如上图所示游戏画面缺失的用户，请**在游戏内按下两次<kbd>Alt</kbd>+<kbd>Enter</kbd>**，即可解决此问题
+- 若游戏内显示 **-WARNING- Using slow software rendering,please update your graphics card driver** ，并且如上图所示游戏画面缺失的用户，请**在游戏内按下两次**<kbd>Alt</kbd>+<kbd>Enter</kbd>，即可解决此问题
 
 !> 若上述操作无法解决此问题，请更新你的显卡驱动。若更新显卡驱动后仍无法解决此问题，请联系复仇时刻群客服或管理员寻求帮助
 
